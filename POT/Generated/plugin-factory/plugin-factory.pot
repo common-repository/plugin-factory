@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR Frederic Vauchelles, Cathy Vauchelles
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/pluginFactory\n"
+"POT-Creation-Date: 2009-09-03 11:44+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. #-#-#-#-#  plugin-factory.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Plugin Name of an extension
+#. #-#-#-#-#  plugin-factory.pot (PACKAGE VERSION)  #-#-#-#-#
+#. Description of an extension
+#: pluginFactory.php:75
+msgid "Plugin Factory"
+msgstr ""
+
+#: pluginFactory.php:80
+msgid "Generate Locale Files"
+msgstr ""
+
+#: pluginFactory.php:94
+msgid "POT file successfully generated"
+msgstr ""
+
+#: pluginFactory.php:96
+msgid "POT file generation failure"
+msgstr ""
+
+#: pluginFactory.php:101
+msgid "Text domain successfully added"
+msgstr ""
+
+#: pluginFactory.php:105
+msgid "PO file successfully generated"
+msgstr ""
+
+#: pluginFactory.php:107
+msgid "PO file generation failure"
+msgstr ""
+
+#: pluginFactory.php:110
+msgid "MO file(s) successfully generated"
+msgstr ""
+
+#: pluginFactory.php:112
+msgid "MO file(s) generation failure"
+msgstr ""
+
+#: pluginFactory.php:144
+msgid "Generation failure, exit code of msgfmt : %i"
+msgstr ""
+
+#: pluginFactory.php:147 pluginFactory.php:176
+#, php-format
+msgid "POT file was not generated for plugin : %s"
+msgstr ""
+
+#: pluginFactory.php:173
+msgid "Generation failure, exit code of msginit : %i"
+msgstr ""
+
+#: pluginFactory.php:212
+msgid "Plugin generation success"
+msgstr ""
+
+#: pluginFactory.php:214
+#, php-format
+msgid "Plugin generation failure : %s"
+msgstr ""
+
+#: pluginFactory.php:238
+msgid "Directory or name field have not been properly filled"
+msgstr ""
+
+#: pluginFactory.php:243
+msgid "Plugin directory is not writable"
+msgstr ""
+
+#: pluginFactory.php:247
+#, php-format
+msgid "Conf file does not exist (%s)"
+msgstr ""
+
+#: pluginFactory.php:274
+#, php-format
+msgid "Plugin template directory contains incorrect files : %s"
+msgstr ""
+
+#: pluginFactory.php:315
+#, php-format
+msgid ""
+"Template file is not readable(%s1) or target directory is not writable (%s2)"
+msgstr ""
+
+#: libs\views\admin\options.php:15
+msgid "label"
+msgstr ""
+
+#: libs\views\admin\options.php:48
+msgid "Save Changes"
+msgstr ""
+
+#: libs\views\default\notFound.php:3
+msgid "A view file was not found"
+msgstr ""
+
+#: libs\views\default\notFound.php:6
+msgid "View"
+msgstr ""
+
+#: libs\views\default\notFound.php:9
+msgid "File"
+msgstr ""
+
+#: POT\tools\pomo\sample\app.php:56
+#, php-format
+msgid "Welcome %s!"
+msgstr ""
+
+#: POT\tools\pomo\sample\app.php:60
+msgid "A string with low priority!"
+msgstr ""
+
+#: POT\tools\pomo\sample\app.php:62
+msgid "Bye\n"
+msgstr ""
+
+#: views\admin\generateConf.php:3
+msgid "Generate Conf files"
+msgstr ""
+
+#: views\admin\generateConf.php:31
+msgid "Choose a conf"
+msgstr ""
+
+#: views\admin\generateConf.php:34
+msgid "New"
+msgstr ""
+
+#: views\admin\generateConf.php:45
+msgid "Choose"
+msgstr ""
+
+#: views\admin\generateConf.php:48
+msgid "Current conf :"
+msgstr ""
+
+#: views\admin\generateConf.php:50
+msgid "Generate Plugin"
+msgstr ""
+
+#: views\admin\generateConf.php:65
+msgid "Field name"
+msgstr ""
+
+#: views\admin\generateConf.php:66
+msgid "Field value"
+msgstr ""
+
+#: views\admin\generateConf.php:67
+msgid "Field description"
+msgstr ""
+
+#: views\admin\generateConf.php:101
+msgid "Generate Conf"
+msgstr ""
+
+#: views\admin\generatePOT.php:3
+msgid "Generate POT Files"
+msgstr ""
+
+#: views\admin\generatePOT.php:32
+msgid "Select plugin"
+msgstr ""
+
+#: views\admin\generatePOT.php:53
+msgid "Text domain"
+msgstr ""
+
+#: views\admin\generatePOT.php:57
+msgid "Language"
+msgstr ""
+
+#: views\admin\generatePOT.php:62
+msgid "Add text domain"
+msgstr ""
+
+#: views\admin\generatePOT.php:63
+msgid "Generate POT"
+msgstr ""
+
+#: views\admin\generatePOT.php:64
+msgid "Generate PO"
+msgstr ""
+
+#: views\admin\generatePOT.php:65
+msgid "Generate MO"
+msgstr ""
+
+#. Plugin URI of an extension
+msgid "http://fredpointzero.com/plugin-factory/"
+msgstr ""
+
+#. Author of an extension
+msgid "Frederic Vauchelles, Cathy Vauchelles"
+msgstr ""
+
+#. Author URI of an extension
+msgid "http://fredpointzero.com"
+msgstr ""

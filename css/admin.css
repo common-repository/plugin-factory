@@ -1,0 +1,20 @@
+table.conf.form-table {
+	width: 100%;
+	border-collapse:collapse;
+}
+table.conf.form-table thead th{
+	font-size: 1.1em;
+	font-weight: bold;
+	border-bottom: 1px solid black;
+}
+table.conf.form-table tbody td,
+table.conf.form-table thead th {
+	text-align:left;
+}
+table.conf.form-table tbody td:first-child,
+table.conf.form-table thead th:first-child {
+	text-align:right;
+}
+table.conf.form-table tbody td:first-child{
+	font-style:italic;
+}
